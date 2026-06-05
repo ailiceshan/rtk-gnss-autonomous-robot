@@ -93,7 +93,7 @@ RTK-GNSSによる測位実験では，ROSトピック上で測位状態を確認
 また，取得した緯度・経度を地図上で確認したところ，アンテナを設置した位置とよく一致しており，屋外環境において高精度な位置情報を取得できることを確認しました．
 
 <p align="center">
-  <img src="docs/images/location_check.png" width="75%">
+  <img src="docs/images/location_info.png" width="75%">
 </p>
 
 さらに，RTK-GNSS単体ではなく，エンコーダやLiDARなどのセンサと組み合わせることで，自己位置推定の安定性を高められる可能性について整理しました．
